@@ -1,8 +1,8 @@
-# openPSU
+# OpenPSU
 A truly portable, cheap, open-source, and programmable benchtop power supply unit (PSU) with uniuque features.
 
 #Goals:
-1. Can be powered through: USB C and A, battery, and power socket. 
+1. Can be powered through: USB C/A, battery, or a power socket. 
 2. Large range of operation: 0-32V and 0-3A, with a reasonable accuracy of ~ ±5mV, ~ ±5mA and three decimal digits of precision.
 3. Dual channel, isolated, linear power supply with constant current (CC) and constant voltage (CV) modes.
 4. Continuous current and voltage graphing on a TFT display.
